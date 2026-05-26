@@ -5,3 +5,6 @@ export default function MyPlatforma() {
     </div>
   );
 }
+export default function Home() {
+  return <h1>myPlatforma ishlayapti 🚀</h1>;
+}
